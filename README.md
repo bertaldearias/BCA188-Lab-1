@@ -21,4 +21,4 @@ Arduino IDE 2.3.10, ESP32 board package 2.0.17, DabbleESP32 library version 1.5.
 
 # HOW TO RUN
 
-Install DabbleESP32 version 1.5.1 through the Arduino IDE Library Manager, select "ESP32 Dev Module" as the board along with the correct COM port, then upload the sketch. Open the Serial Monitor at 115200 baud — you should see "Bluetooth is ready. Connect using Dabble app." On your phone, open the Dabble app, connect to "ESP32_Dabble", and open the Terminal module. Any message you send will appear on the Serial Monitor, and the ESP32 will reply back to the app.
+Install DabbleESP32 version 1.5.1 through the Arduino IDE Library Manager, select "ESP32 Dev Module" as the board along with the correct COM port, then upload the sketch. Open the Serial Monitor at 115200 baud, you should see "Bluetooth is ready. Connect using Dabble app." On your phone, open the Dabble app, connect to "ESP32_Dabble", and open the Terminal module. Any message you send will appear on the Serial Monitor, and the ESP32 will reply back to the app.
